@@ -1,3 +1,94 @@
-z="
-";uBz='lib/';lDz='-eq ';tCz='se w';ICz='/dev';nBz='ns/B';BEz='**"';qDz='>>  ';gz='bil/';YCz='ding';pz='-c '\''';xBz='on/P';ABz='])'\'')';PCz='s no';IDz=' | g';cDz='2"';rBz='rm -';kz='ON_V';Xz='s://';uDz=' INS';GEz=' EMI';cz='nten';TBz='issF';wBz='pyth';iDz='f /t';kBz='ins/';TDz='3"';WCz=' "Pr';rz='rt s';xz='n_in';Cz='Y2="';UDz='opkg';Ez='ma2-';GBz=' "  ';FDz='vers';wz='rsio';BBz='MY_E';bBz='if [';aBz='..."';vCz='"';EDz='n --';qCz=' Plu';QEz='ce W';oz='hon ';KEz='p 4;';VDz=' ins';UCz='yste';hCz='OWNL';Nz='_emi';wDz='ED <';OBz=' "';iBz='hon/';fCz='=="';AEz='****';JCz='/nul';DCz='s/Bi';pBz='; th';UBz='eedA';WEz=' 4';FBz='echo';tz='prin';IBz='>   ';Rz='ipk"';HDz='2>&1';pCz='tall';gBz='gma2';bDz='Y3';yBz='lugi';HCz='y > ';Vz='RL="';vz='s.ve';oBz='ey ]';CCz='sion';OEz='our ';YEz='exit';hz='/mai';DEz='OADE';uCz='ait ';nDz=' the';wCz='cd /';lz='ERSI';ADz='-e';Yz='raw.';KDz='-q '\''';jBz='Plug';gDz='cd .';jCz='AND ';Oz='l-na';DBz='====';mCz='PLUG';qz='impo';jDz='mp/$';sCz='plea';WBz='ey i';NDz='wget';tBz='usr/';fBz='/eni';rDz='SUCC';Zz='gith';NEz=' " Y';cBz=' -d ';FCz='edAu';iCz='OAD ';JEz='slee';yz='fo[0';oCz=' Ins';bCz='alla';MDz='3\.'\''';qBz='en';aDz='te $';Qz='all.';eCz=' "==';hDz='.';SCz='in t';dz='t.co';yDz=' "**';PDz='Y_UR';pDz=' ">>';TCz='he s';NCz=' "Bi';eBz='/lib';dDz='Y2';QDz='L/$M';DDz='ytho';CBz='M='\''=';ODz=' "$M';MBz='ersi';RDz='Y_IP';ZBz='stem';KCz='l 2>';eDz='==="';fz='ilna';ECz='ssFe';ZEz=' 0';mBz='nsio';Gz='in-e';nCz='IN "';KBz='ve o';az='ubus';sz='ys; ';Bz='PK_P';kDz=' $? ';vBz='ma2/';UEz='Now ';RCz='und ';BDz='wait';mDz='0 ];';Lz='okey';SEz='REST';QCz='t fo';FEz='  >>';LBz='ld v';OCz='y wa';tDz='ULLY';bz='erco';MEz='_EM';Jz='feed';XCz='ocee';rCz='gin ';XBz='n th';LEz=' $MY';ez='m/em';Iz='biss';jz='PYTH';YDz='-ove';Hz='mil-';sDz='ESSF';RBz='ng f';Kz='-aut';dBz='/usr';Tz='-py3';QBz='ecki';MCz='else';IEz='BIL ';BCz='xten';iz='n"';VEz='init';xDz='<<<"';xCz='tmp';oDz='n';LDz='^Pyt';hBz='/pyt';kCz='INST';SDz='K_PY';Az='MY_I';EBz='==='\''';VBz='utoK';PEz='Devi';CDz='if p';Mz='-py2';YBz='e sy';LCz='&1';ACz='ns/E';TEz='ART ';vDz='TALL';NBz='on  ';REz='ill ';GDz='ion ';PBz=' "Ch';nz='(pyt';XEz=' 3';gCz=' " D';EEz='D BY';HEz='L_NA';yCz='set ';JBz='Remo';sBz='rf /';mz='ON=$';WDz=' --f';SBz='or B';Pz='bil_';CEz=' UPL';Dz='enig';VCz='m"';aCz='inst';lBz='Exte';Uz='MY_U';fDz='+e';uz='t(sy';Sz='Y3="';lCz='ALL ';XDz='orce';Fz='plug';GCz='toKe';dCz='fi';Wz='http';HBz=' >>>';JDz='rep ';ZDz='rwri';ZCz=' to ';cCz='tion';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Az$Bz$Sz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Tz$Nz$Oz$Pz$Qz$Rz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$Iz$Jz$Kz$Lz$hz$iz$z$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$z$BBz$CBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$EBz$z$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$z$FBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$z$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$TBz$UBz$VBz$oBz$pBz$qBz$z$rBz$sBz$tBz$uBz$Dz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$z$MCz$z$FBz$NCz$ECz$FCz$GCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$z$FBz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$aBz$z$dCz$z$FBz$eCz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$fCz$z$FBz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$z$FBz$GBz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$z$wCz$xCz$z$yCz$ADz$z$BDz$z$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$oz$MDz$pBz$qBz$z$NDz$ODz$PDz$QDz$RDz$SDz$TDz$z$UDz$VDz$pCz$WDz$XDz$YDz$ZDz$aDz$Az$Bz$bDz$z$MCz$z$FBz$GBz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$z$NDz$ODz$PDz$QDz$RDz$SDz$cDz$z$UDz$VDz$pCz$WDz$XDz$YDz$ZDz$aDz$Az$Bz$dDz$z$dCz$z$FBz$eCz$DBz$DBz$DBz$DBz$DBz$DBz$DBz$eDz$z$yCz$fDz$z$gDz$hDz$z$BDz$z$rBz$iDz$jDz$Az$Bz$dDz$z$rBz$iDz$jDz$Az$Bz$bDz$z$bBz$kDz$lDz$mDz$nDz$oDz$z$FBz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$z$dCz$z$FBz$yDz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$BEz$z$FBz$GBz$CEz$DEz$EEz$FEz$qDz$GEz$HEz$IEz$vCz$z$JEz$KEz$z$FBz$LEz$MEz$z$FBz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$vCz$z$FBz$yDz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$AEz$vCz$z$BDz$z$VEz$WEz$z$VEz$XEz$z$YEz$ZEz"
+#!/bin/bash
+######################################################################################
+## Command=wget https://raw.githubusercontent.com/emilnabil/bissfeed-autokey/main/installer.sh -O - | /bin/sh
+##
+###########################################
+###########################################
+
+# my config script #
+
+MY_IPK_PY2="enigma2-plugin-emil-bissfeed-autokey-py2_emil-nabil_all.ipk"
+MY_IPK_PY3="enigma2-plugin-emil-bissfeed-autokey-py3_emil-nabil_all.ipk"
+MY_URL="https://raw.githubusercontent.com/emilnabil/bissfeed-autokey/main"
+PYTHON_VERSION=$(python -c 'import sys; print(sys.version_info[0])')
+
+######################################################################################
+MY_EM='============================================================================================================'
+#  Remove Old Plugin  #
+echo "   >>>>   Remove old version   "
+
+echo "Checking for BissFeedAutoKey in the system..."
+if [ -d /usr/lib/enigma2/python/Plugins/Extensions/BissFeedAutoKey ]; then
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/BissFeedAutoKey > /dev/null 2>&1
+else
+	echo "BissFeedAutoKey was not found in the system"
+	echo "Proceeding to installation..."
+fi
+
+#################################
+    
+###################
+echo "============================================================================================================================"
+ echo " DOWNLOAD AND INSTALL PLUGIN "
+
+echo "   Install Plugin please wait "
+
+cd /tmp 
+
+set -e
+    
+  wait
+     
+if python --version 2>&1 | grep -q '^Python 3\.'; then
+  wget "$MY_URL/$MY_IPK_PY3"
+opkg install --force-reinstall $MY_IPK_PY3
+	else 
+echo "   Install Plugin please wait "
+   wget "$MY_URL/$MY_IPK_PY2"
+opkg install --force-reinstall $MY_IPK_PY2
+	fi
+echo "================================="
+set +e
+cd ..
+wait
+rm -f /tmp/$MY_IPK_PY2
+rm -f /tmp/$MY_IPK_PY3
+	if [ $? -eq 0 ]; then
+echo ">>>>  SUCCESSFULLY INSTALLED <<<<"
+fi
+		echo "********************************************************************************"
+echo "   UPLOADED BY  >>>>   EMIL_NABIL " 
+sleep 4;                         
+echo $MY_EM
+###################                                                                                                                  
+echo " Your Device Will RESTART Now " 
+echo "**********************************************************************************"
+wait
+init 4
+sleep 2;
+init 3
+exit 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
