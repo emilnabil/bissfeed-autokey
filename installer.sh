@@ -68,13 +68,11 @@ echo "   UPLOADED BY  >>>>   EMIL_NABIL "
 sleep 4;                         
 echo $MY_EM
 ###################                                                                                                                  
-echo " Your Device Will RESTART Now " 
+echo " Please RESTART Your Device " 
 echo "**********************************************************************************"
 wait
-init 4
-sleep 2;
-init 3
 exit 0
+
 
 
 
