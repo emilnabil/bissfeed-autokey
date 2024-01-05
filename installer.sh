@@ -7,8 +7,8 @@
 
 # my config script #
 
-MY_IPK_PY2="enigma2-plugin-emil-bissfeed-autokey-py2_emil-nabil_all.ipk"
-MY_IPK_PY3="enigma2-plugin-emil-bissfeed-autokey-py3_emil-nabil_all.ipk"
+MYTAR_PY2="enigma2-plugin-emil-bissfeed-autokey-py2.tar.gz"
+MYTAR_PY3="enigma2-plugin-emil-bissfeed-autokey-py3.tar.gz"
 MY_URL="https://raw.githubusercontent.com/emilnabil/bissfeed-autokey/main"
 PYTHON_VERSION=$(python -c 'import sys; print(sys.version_info[0])')
 
@@ -40,19 +40,26 @@ set -e
   wait
      
 if python --version 2>&1 | grep -q '^Python 3\.'; then
-  wget "$MY_URL/$MY_IPK_PY3"
-opkg install --force-reinstall $MY_IPK_PY3
+  cd /tmp
+    set -e
+    echo "===> Downloading And Installing Bissfeed-AutoKey python3 plugin Please Wait ......"
+    echo
+    wget "$MY_URL/$MYTAR_PY3"
+    tar -xzf enigma2-plugin-emil-bissfeed-autokey-py3.tar.gz --warning=no-timestamp -C /
+    set +e
+    rm -f enigma2-plugin-emil-bissfeed-autokey-py3.tar.gz
 	else 
-echo "   Install Plugin please wait "
-   wget "$MY_URL/$MY_IPK_PY2"
-opkg install --force-reinstall $MY_IPK_PY2
+echo "===> Downloading And Installing Bissfeed-AutoKey python2 plugin Please Wait ......"
+   echo
+    wget "$MY_URL/$MYTAR_PY2"
+    tar -xzf enigma2-plugin-emil-bissfeed-autokey-py2.tar.gz --warning=no-timestamp -C /
+    set +e
+    rm -f enigma2-plugin-emil-bissfeed-autokey-py2.tar.gz
 	fi
 echo "================================="
 set +e
 cd ..
 wait
-rm -f /tmp/$MY_IPK_PY2
-rm -f /tmp/$MY_IPK_PY3
 	if [ $? -eq 0 ]; then
 echo ">>>>  SUCCESSFULLY INSTALLED <<<<"
 fi
@@ -68,22 +75,6 @@ init 4
 sleep 2;
 init 3
 exit 0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
